@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(215, 250, 241);
+}
+.heading{
+    text-transform: uppercase;
+    text-align: center;
+    color: green;
+    font-family: cursive;
+}
+.contuct-text{
+    text-shadow: 10px;
+    color: rgb(255, 5, 5);
+}
+.contuct-container{
+    border: 10px solid rgba(1, 236, 13, 0.788);
+    border-radius: 10px;
+    height: 60px;
+    width: 84vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fb{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    background-color: rgba(1, 236, 13, 0.788);
+    width: 20vw;
+    height: 100%;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.insta{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    background-color: rgba(1, 236, 13, 0.788);
+    width: 20vw;
+    height: 100%;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.whats{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    background-color: rgba(1, 236, 13, 0.788);
+    width: 20vw;
+    height: 100%;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.link{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    background-color: rgba(1, 236, 13, 0.788);
+    width: 20vw;
+    height: 100%;
+    border-radius: 20px;
+    border: 2px solid black;
+}
