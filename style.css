@@ -1,3 +1,12 @@
+ .inter{
+        font-family: 'Inter', sans-serif;
+        font-style: italic;
+ }
+ .rubik{
+        font-family: 'Rubik', sans-serif;
+        font-style: italic;
+ }
+
  .attribution {
      font-size: 11px;
      text-align: center;
@@ -5,4 +14,8 @@
 
  .attribution a {
      color: hsl(228, 45%, 44%);
+ }
+
+ .tsize {
+     font-size: 3rem;
  }
